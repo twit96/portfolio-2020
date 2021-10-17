@@ -2,7 +2,7 @@
 * All links Simulate an HTTP redirect - no back button
 */
 $('#not-found a').on('click', function() {
-  window.location.replace("/");
+  window.location.replace("https://twit96.github.io/portfolio-old/");
 });
 
 
