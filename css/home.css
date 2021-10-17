@@ -116,7 +116,7 @@ img {
   width: 18px;
   left: 4px;
   bottom: 4px;
-  background-image: url('/img/sun.png');
+  background-image: url('./img/sun.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -126,7 +126,7 @@ img {
 }
 
 .slider.invert-color-scheme:before {
-  background-image: url('/img/moon.png');
+  background-image: url('./img/moon.png');
 }
 
 input:checked + .slider:before {

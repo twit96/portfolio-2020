@@ -5,10 +5,10 @@
 */
 function fadeAvatarImg() {
   $('img.avatar').delay(5000).fadeTo(1000,0.30, function() {
-      $('img.avatar').attr("src",'/img/icon.jpg');
+      $('img.avatar').attr("src",'./img/icon.jpg');
   }).fadeTo(500,1);
   $('img.avatar').delay(5000).fadeTo(1000,0.30, function() {
-      $('img.avatar').attr("src",'/img/profile.jpg');
+      $('img.avatar').attr("src",'./img/profile.jpg');
   }).fadeTo(500,1);
   setTimeout(() => { fadeAvatarImg() }, 5000);
 }
