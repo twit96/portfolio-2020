@@ -21,5 +21,5 @@
 
 <!-- Links -->
 <p align="center">
-  <a href="./index.html">View Website</a>
+  <a href="https://twit96.github.io/portfolio-old/">View Website</a>
 </p>
