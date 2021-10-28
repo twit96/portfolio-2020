@@ -1,5 +1,5 @@
 # First Portfolio Website (2020)
-<figure style="text-align:center;>
+<figure style="text-align:center;">
   <img src="./img/site-card.png" />
   <figcaption style="font-style:italix;">Static Portfolio Website Project</figcaption>
 </figure>
