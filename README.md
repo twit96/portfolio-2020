@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">First Portfolio Website (2020)</h1>
+<h1 align="center">First Portfolio Website</h1>
 <br>
 
 <!-- Image -->
