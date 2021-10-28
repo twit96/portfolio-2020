@@ -20,4 +20,6 @@
 </p>
 
 <!-- Links -->
-<a href="./index.html">View Website</a>
+<p align="center">
+  <a href="./index.html">View Website</a>
+</p>
