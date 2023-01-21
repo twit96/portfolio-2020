@@ -26,7 +26,7 @@ $('header a').click(function() {
 $('header .title').click(function() {
   if ($(window).scrollTop() == 0) {
     // go to homepage if at top
-    window.location.href = "https://twit96.github.io/portfolio-old/";
+    window.location.href = "https://twit96.github.io/portfolio-2020/";
   } else {
     // scroll to top if not at top
     $("html, body").scrollView();
